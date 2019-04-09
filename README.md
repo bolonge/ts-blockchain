@@ -1,2 +1,2 @@
 # ts-blockchain
-typescript blockchain
+typescript learning blockchain
